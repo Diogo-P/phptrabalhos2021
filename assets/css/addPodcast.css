@@ -1,0 +1,26 @@
+
+body {
+    height: 95vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: #FFDEAD;
+}
+
+form {
+    width: 50vw;
+    display: flex;
+    flex-direction: column;
+}
+
+form > label{
+    width: 50vw;
+    display: flex;
+    flex-direction: column;
+}
+
+textarea {
+    resize: none;
+}
+
